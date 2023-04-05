@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+article > table {
+  width: 100%;
+  max-width: 516px;
+  border-spacing: 0;
+}
+
+article > table th,
+article > table td {
+  border: 1px solid black;
+}
